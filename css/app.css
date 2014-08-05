@@ -81,9 +81,10 @@ span.instructions {
 .header-panel {
 	border: none;
 	padding: 1rem 3.5rem 0.5rem;
-	background: url('../img/panel-design-sml-index.png') no-repeat top right #2d3232;
+	background: url('../img/panel-design-index.png') no-repeat top right #2d3232;
 	opacity: 0.95;
 	margin-bottom: 0;
+	background-size: 35%;
 }
 
 .content-panel {
@@ -101,8 +102,9 @@ span.instructions {
 
 
 .thk {
-	background: url('../img/panel-design-sml-download.png') no-repeat top right #f26c21;
+	background: url('../img/panel-design-download.png') no-repeat top right #f26c21;
 	opacity: 0.85;
+	background-size: 35%;
 }
 
 .thkblue {
