@@ -82,7 +82,7 @@ span.instructions {
 	border: none;
 	padding: 1rem 3.5rem 0.5rem;
 	background: url('../img/panel-design-index.png') no-repeat top right #2d3232;
-	opacity: 0.95;
+	/*opacity: 0.95;*/
 	margin-bottom: 0;
 	background-size: 35%;
 }
@@ -91,7 +91,7 @@ span.instructions {
 	border: none;
 	padding: 0.5rem 3.5rem 2em;
 	background-color: #2d3232;
-	opacity: 0.95;
+	/*opacity: 0.95;*/
 	margin-bottom: 0;
 	height: 100%;
 }
