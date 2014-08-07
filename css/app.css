@@ -34,6 +34,8 @@ body {
   	background-size: cover;
 }
 
+.text-white{ color: #ffffff;}
+
 h1 {
    font-family: 'pluto-regular', Helvetica, Arial, sans-serif;
    font-size: 1.4em;
