@@ -105,13 +105,13 @@ span.instructions {
 
 .thk {
 	background: url('../img/panel-design-download.png') no-repeat top right #f26c21;
-	opacity: 0.85;
+	opacity: 1;
 	background-size: 35%;
 }
 
 .thkblue {
 	background-color: #f26c21;
-	opacity: 0.85;
+	opacity: 1;
 }
 
 a {
